@@ -1,1 +1,1 @@
-Sitemap: https://mhashiq.github.io/mehedihassan/sitemap.xml
+Sitemap: https://mehedihassan.mhashiq.io/sitemap.xml
