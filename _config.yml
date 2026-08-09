@@ -13,9 +13,9 @@ title                    : "Md. Mehedi Hassan"
 title_separator          : "-"
 name                     : &name "Md. Mehedi Hassan"
 description              : &description "Md. Mehedi Hassan's Academic Portfolio - Ph.D. Researcher in Biomedical AI & Medical Imaging at Texas Tech University."
-url                      : "https://mehedihassan.github.io"
-baseurl                  : ""
-repository               : "mehedihassan/mehedihassan.github.io"
+url                      : "https://mhashiq.github.io"
+baseurl                  : "/mehedihassan"
+repository               : "mhashiq/mehedihassan"
 
 # Site Author
 author:
