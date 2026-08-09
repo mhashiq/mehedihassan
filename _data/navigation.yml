@@ -1,0 +1,17 @@
+# Main Navigation Menu Configuration for Md. Mehedi Hassan
+
+main:
+  - title: "About"
+    url: /
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Social Impact"
+    url: /social-impact/
+
+  - title: "CV"
+    url: /cv/
